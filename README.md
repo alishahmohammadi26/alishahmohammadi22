@@ -24,6 +24,7 @@ My work spans from deploying production Agentic AI systems for ontology curation
 
 - **FAIR Data Governance at Scale** — Building automated, policy-driven data governance across Takeda's R&D ecosystem
 - **Agentic AI for Science** — Built [onto-curator-agent](https://github.com/alishahmohammadi22/onto-curator-agent): a 4-agent LangGraph pipeline for autonomous biomedical ontology curation in pharma R&D ([project page](https://alishahmohammadi22.github.io/onto-curator-agent))
+- **FAIR Data Toolkit** — Published [fair-data-toolkit](https://github.com/alishahmohammadi22/fair-data-toolkit): Python package + 5-article series implementing the RDA FAIR Maturity Model (41 indicators) and Pistoia Alliance matrix for pharma R&D ([project page](https://alishahmohammadi22.github.io/fair-data-toolkit))
 - **Scientific Machine Learning** — Publishing notebooks and tools for PINNs, mechanistic modeling, and hybrid ML/physics systems in biopharma
 - **AI for Drug Discovery** — Cheminformatics, NLP on scientific literature, and AI-guided process development
 
@@ -60,6 +61,7 @@ My work spans from deploying production Agentic AI systems for ontology curation
 | Repository | Description | Stack |
 |---|---|---|
 | [**onto-curator-agent**](https://github.com/alishahmohammadi22/onto-curator-agent) | Agentic AI system for autonomous biomedical ontology curation — 4 LangGraph agents that extract candidate terms from scientific text, map them across 10 ontologies (BioPortal + EBI OLS4), detect conflicts, and route governance decisions automatically. Includes a full Jupyter demo and live project page. | Python · LangGraph · GPT-5.2 · Pydantic v2 |
+| [**fair-data-toolkit**](https://github.com/alishahmohammadi22/fair-data-toolkit) | FAIR Data Maturity Framework for Pharmaceutical R&D — Python package implementing all 41 RDA FAIR Maturity Model indicators and the Pistoia Alliance Bronze/Silver/Gold/Platinum matrix. Includes a 5-article Jupyter series and a manual assessment tool with Rich scorecard output. ([project page](https://alishahmohammadi22.github.io/fair-data-toolkit)) | Python · Pydantic v2 · RDA · Pistoia Alliance |
 | [**ScientificML**](https://github.com/alishahmohammadi22/ScientificML) | Scientific ML for biopharmaceutical process development — PINNs, data-driven dynamics, hybrid models | Python · PyTorch · JAX |
 | [**chemoinformatics**](https://github.com/alishahmohammadi22/chemoinformatics) | AI for drug discovery — molecular property prediction, SMILES encoding, GNNs | Python · RDKit · PyTorch |
 | [**NLP-to-BERT**](https://github.com/alishahmohammadi22/NLP-to-BERT) | Step-by-step guide: from NLP fundamentals to building and fine-tuning BERT models | Python · HuggingFace |
