@@ -5,7 +5,7 @@
 ### Strategic Digital Leader · Pharmaceutical R&D · Agentic AI · Scientific ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alishahmohammadi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.shah@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/alishahmohammadi22)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://alishahmohammadi22.github.io)
 
 </div>
@@ -92,7 +92,7 @@ My work spans from deploying production Agentic AI systems for ontology curation
 
 ## Let's Connect
 
-- 📧 ali.shahmohammadidvj@gmail.com
+- 📧 github.com/alishahmohammadi22
 - 💼 [LinkedIn](https://linkedin.com/in/alishahmohammadi)
 - 🌐 [Portfolio & Blog](https://alishahmohammadi22.github.io)
 - 📍 Greater Boston, MA
