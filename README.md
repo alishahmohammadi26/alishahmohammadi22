@@ -105,3 +105,5 @@ My work spans from deploying production Agentic AI systems for ontology curation
 <div align="center">
 <sub>Open to collaboration on Scientific ML, Agentic AI systems, and pharmaceutical data science projects.</sub>
 </div>
+
+<!-- maintained-note: keep this repo tidy -->
