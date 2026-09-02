@@ -5,8 +5,8 @@
 ### Strategic Digital Leader · Pharmaceutical R&D · Agentic AI · Scientific ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alishahmohammadi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/alishahmohammadi22)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://alishahmohammadi22.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/alishahmohammadi26)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://alishahmohammadi26.github.io)
 
 </div>
 
@@ -23,8 +23,8 @@ My work spans from deploying production Agentic AI systems for ontology curation
 ## What I'm Working On
 
 - **FAIR Data Governance at Scale** — Building automated, policy-driven data governance across Takeda's R&D ecosystem
-- **Agentic AI for Science** — Built [onto-curator-agent](https://github.com/alishahmohammadi22/onto-curator-agent): a 4-agent LangGraph pipeline for autonomous biomedical ontology curation in pharma R&D ([project page](https://alishahmohammadi22.github.io/onto-curator-agent))
-- **FAIR Data Toolkit** — Published [fair-data-toolkit](https://github.com/alishahmohammadi22/fair-data-toolkit): Python package + 5-article series implementing the RDA FAIR Maturity Model (41 indicators) and Pistoia Alliance matrix for pharma R&D ([project page](https://alishahmohammadi22.github.io/fair-data-toolkit))
+- **Agentic AI for Science** — Built [onto-curator-agent](https://github.com/alishahmohammadi26/onto-curator-agent): a 4-agent LangGraph pipeline for autonomous biomedical ontology curation in pharma R&D ([project page](https://alishahmohammadi26.github.io/onto-curator-agent))
+- **FAIR Data Toolkit** — Published [fair-data-toolkit](https://github.com/alishahmohammadi26/fair-data-toolkit): Python package + 5-article series implementing the RDA FAIR Maturity Model (41 indicators) and Pistoia Alliance matrix for pharma R&D ([project page](https://alishahmohammadi26.github.io/fair-data-toolkit))
 - **Scientific Machine Learning** — Publishing notebooks and tools for PINNs, mechanistic modeling, and hybrid ML/physics systems in biopharma
 - **AI for Drug Discovery** — Cheminformatics, NLP on scientific literature, and AI-guided process development
 
@@ -60,12 +60,12 @@ My work spans from deploying production Agentic AI systems for ontology curation
 
 | Repository | Description | Stack |
 |---|---|---|
-| [**onto-curator-agent**](https://github.com/alishahmohammadi22/onto-curator-agent) | Agentic AI system for autonomous biomedical ontology curation — 4 LangGraph agents that extract candidate terms from scientific text, map them across 10 ontologies (BioPortal + EBI OLS4), detect conflicts, and route governance decisions automatically. Includes a full Jupyter demo and live project page. | Python · LangGraph · GPT-5.2 · Pydantic v2 |
-| [**fair-data-toolkit**](https://github.com/alishahmohammadi22/fair-data-toolkit) | FAIR Data Maturity Framework for Pharmaceutical R&D — Python package implementing all 41 RDA FAIR Maturity Model indicators and the Pistoia Alliance Bronze/Silver/Gold/Platinum matrix. Includes a 5-article Jupyter series and a manual assessment tool with Rich scorecard output. ([project page](https://alishahmohammadi22.github.io/fair-data-toolkit)) | Python · Pydantic v2 · RDA · Pistoia Alliance |
-| [**ScientificML**](https://github.com/alishahmohammadi22/ScientificML) | Scientific ML for biopharmaceutical process development — PINNs, data-driven dynamics, hybrid models | Python · PyTorch · JAX |
-| [**chemoinformatics**](https://github.com/alishahmohammadi22/chemoinformatics) | AI for drug discovery — molecular property prediction, SMILES encoding, GNNs | Python · RDKit · PyTorch |
-| [**NLP-to-BERT**](https://github.com/alishahmohammadi22/NLP-to-BERT) | Step-by-step guide: from NLP fundamentals to building and fine-tuning BERT models | Python · HuggingFace |
-| [**alishahmohammadi22.github.io**](https://github.com/alishahmohammadi22/alishahmohammadi22.github.io) | Personal portfolio and blog | HTML · CSS · JS |
+| [**onto-curator-agent**](https://github.com/alishahmohammadi26/onto-curator-agent) | Agentic AI system for autonomous biomedical ontology curation — 4 LangGraph agents that extract candidate terms from scientific text, map them across 10 ontologies (BioPortal + EBI OLS4), detect conflicts, and route governance decisions automatically. Includes a full Jupyter demo and live project page. | Python · LangGraph · GPT-5.2 · Pydantic v2 |
+| [**fair-data-toolkit**](https://github.com/alishahmohammadi26/fair-data-toolkit) | FAIR Data Maturity Framework for Pharmaceutical R&D — Python package implementing all 41 RDA FAIR Maturity Model indicators and the Pistoia Alliance Bronze/Silver/Gold/Platinum matrix. Includes a 5-article Jupyter series and a manual assessment tool with Rich scorecard output. ([project page](https://alishahmohammadi26.github.io/fair-data-toolkit)) | Python · Pydantic v2 · RDA · Pistoia Alliance |
+| [**ScientificML**](https://github.com/alishahmohammadi26/ScientificML) | Scientific ML for biopharmaceutical process development — PINNs, data-driven dynamics, hybrid models | Python · PyTorch · JAX |
+| [**chemoinformatics**](https://github.com/alishahmohammadi26/chemoinformatics) | AI for drug discovery — molecular property prediction, SMILES encoding, GNNs | Python · RDKit · PyTorch |
+| [**NLP-to-BERT**](https://github.com/alishahmohammadi26/NLP-to-BERT) | Step-by-step guide: from NLP fundamentals to building and fine-tuning BERT models | Python · HuggingFace |
+| [**alishahmohammadi26.github.io**](https://github.com/alishahmohammadi26/alishahmohammadi26.github.io) | Personal portfolio and blog | HTML · CSS · JS |
 
 ---
 
@@ -86,8 +86,8 @@ My work spans from deploying production Agentic AI systems for ontology curation
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alishahmohammadi22&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alishahmohammadi22&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alishahmohammadi26&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alishahmohammadi26&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -95,9 +95,9 @@ My work spans from deploying production Agentic AI systems for ontology curation
 
 ## Let's Connect
 
-- 📧 github.com/alishahmohammadi22
+- 📧 github.com/alishahmohammadi26
 - 💼 [LinkedIn](https://linkedin.com/in/alishahmohammadi)
-- 🌐 [Portfolio & Blog](https://alishahmohammadi22.github.io)
+- 🌐 [Portfolio & Blog](https://alishahmohammadi26.github.io)
 - 📍 Greater Boston, MA
 
 ---
